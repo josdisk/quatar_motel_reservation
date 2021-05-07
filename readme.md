@@ -1,1 +1,3 @@
-# Laravel 5.8 based system for hotel managers to manage room bookings
+# Recommendation of using php 7 or later
+
+# Laravel 5.8 Web App to manage Motel reservations
